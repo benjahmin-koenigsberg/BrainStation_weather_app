@@ -18,6 +18,14 @@ We choose to copy / mock the branding of BrainStation's exisitng website as if o
 
 We included weather info for the four cities that Brain Station has campuses
 
+## Built with 
+
+* JavaScript
+* Axios
+* HTML5
+* SCSS
+* Figma
+
 ## Contributions 
 
 This was a colloboartion with 
